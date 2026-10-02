@@ -1,4 +1,3 @@
 instructor
-Student A
-Student B
-
+Student  name: arman
+Student  roll: 15
